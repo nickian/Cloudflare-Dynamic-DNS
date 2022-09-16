@@ -1,0 +1,1 @@
+Your IP address has changed to <?=$ip_address;?>, but there was a problem updating the DNS record for <?=$record_name;?>.

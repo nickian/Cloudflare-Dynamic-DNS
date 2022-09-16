@@ -1,0 +1,1 @@
+Your IP address has changed to <?=$ip_address;?> and has been updated in the DNS record <?=$record_name;?>.
