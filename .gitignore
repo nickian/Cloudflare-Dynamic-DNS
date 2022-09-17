@@ -1,6 +1,5 @@
 .DS_Store
 config.php
 data.json
-composer.lock
 log
 vendor/*
